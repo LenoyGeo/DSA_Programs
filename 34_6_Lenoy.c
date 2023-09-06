@@ -36,6 +36,7 @@ int main() {
                 show();
                 break;
             case 4:
+                printf("Bye!");
                 return 0; // Exit the program
             default:
                 printf("\nInvalid Choice.\n");
